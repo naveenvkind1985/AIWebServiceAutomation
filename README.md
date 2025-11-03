@@ -12,7 +12,7 @@ The framework supports:
 ## Project Structure
 The framework is structured as follows:
 
-.
+```
 ├── src/
 │   ├── main/
 │   │   ├── java/
@@ -38,7 +38,7 @@ The framework is structured as follows:
 ├── target/                                 # Compiled source files
 ├── pom.xml                                 # Maven configuration file
 └── README.md                               # Documentation
----
+```
 
 ### Prerequisites
 
